@@ -1,5 +1,5 @@
-hello world
-hello world  hot
-hello world
-master tese
-11111111111111
+#include<stdio.h>
+int main ()
+{
+printf("hello world");
+}
